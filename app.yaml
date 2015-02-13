@@ -1,0 +1,9 @@
+application: utopian-honor-353
+version: alpha
+runtime: python27
+api_version: 1
+threadsafe: no
+
+handlers:
+- url: /
+  script: main.app
