@@ -1,5 +1,5 @@
-application: utopian-honor-353
-version: alpha
+application: cellular-ring-758
+version: alpha-01
 runtime: python27
 api_version: 1
 threadsafe: no
