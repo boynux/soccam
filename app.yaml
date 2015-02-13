@@ -1,9 +1,9 @@
-application: cellular-ring-758
+application: fabled-gist-88508
 version: alpha-01
 runtime: python27
 api_version: 1
 threadsafe: no
 
 handlers:
-- url: /
+- url: /.*
   script: main.app
